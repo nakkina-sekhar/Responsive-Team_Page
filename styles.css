@@ -22,7 +22,7 @@ div{
     margin: auto;
     border: 2px solid black;
     text-align: center;
-       border-radius: 10px;
+    border-radius: 10px;
     background-color: rgba(235, 27, 235, 0.884) ;
 }
 .div1{
@@ -49,7 +49,7 @@ div:hover {
     background-color: black; /* Change background color on hover */
 }
 
- 
+
 
 
 h3 {
