@@ -1,2 +1,2 @@
 ﻿# Responsive-Team_Page
- Live Link:   ![Clickhere](https://responsive-team-page.netlify.app/)
+    ![Live Link](https://responsive-team-page.netlify.app/)
